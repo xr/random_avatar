@@ -8,6 +8,6 @@ using one php file to generate random avatar
   - i.e. avater.php?hash=c4ca4238a0b923820dcc509a6f75849b&size=50
   - hash 建议使用md5
 
-## 演示地址
-  - http://app.ispu.cn/identicon/
+## 演示地址(该演示地址长期有效,如第一次无法访问,请第二次尝试)
+  - http://app.liangjs.com/identicon/
   
